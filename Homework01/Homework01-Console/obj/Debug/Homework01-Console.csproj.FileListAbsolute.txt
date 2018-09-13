@@ -1,0 +1,7 @@
+D:\程式\CS289-Examples\Homework01\Homework01-Console\bin\Debug\Homework01-Console.exe.config
+D:\程式\CS289-Examples\Homework01\Homework01-Console\bin\Debug\Homework01-Console.exe
+D:\程式\CS289-Examples\Homework01\Homework01-Console\bin\Debug\Homework01-Console.pdb
+D:\程式\CS289-Examples\Homework01\Homework01-Console\obj\Debug\Homework01-Console.csprojAssemblyReference.cache
+D:\程式\CS289-Examples\Homework01\Homework01-Console\obj\Debug\Homework01-Console.csproj.CoreCompileInputs.cache
+D:\程式\CS289-Examples\Homework01\Homework01-Console\obj\Debug\Homework01-Console.exe
+D:\程式\CS289-Examples\Homework01\Homework01-Console\obj\Debug\Homework01-Console.pdb

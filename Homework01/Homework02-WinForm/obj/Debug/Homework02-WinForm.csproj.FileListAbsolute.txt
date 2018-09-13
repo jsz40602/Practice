@@ -1,0 +1,10 @@
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02-WinForm.csprojAssemblyReference.cache
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02_WinForm.MainForm.resources
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02_WinForm.Properties.Resources.resources
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02-WinForm.csproj.GenerateResource.cache
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02-WinForm.csproj.CoreCompileInputs.cache
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\bin\Debug\Homework02-WinForm.exe.config
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\bin\Debug\Homework02-WinForm.exe
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\bin\Debug\Homework02-WinForm.pdb
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02-WinForm.exe
+D:\程式\CS289-Examples\Homework01\Homework02-WinForm\obj\Debug\Homework02-WinForm.pdb
