@@ -1,0 +1,7 @@
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\bin\Debug\Example06.exe.config
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\bin\Debug\Example06.exe
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\bin\Debug\Example06.pdb
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\obj\Debug\Example06.csproj.CoreCompileInputs.cache
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\obj\Debug\Example06.exe
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\obj\Debug\Example06.pdb
+D:\程式\CS289-Examples\Lecture02-Examples\Example06\obj\Debug\Example06.csprojAssemblyReference.cache
