@@ -1,0 +1,10 @@
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\bin\Debug\Example05.exe.config
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\bin\Debug\Example05.exe
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\bin\Debug\Example05.pdb
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Homework01.csprojAssemblyReference.cache
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.MainWindow.resources
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.Properties.Resources.resources
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Homework01.csproj.GenerateResource.cache
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Homework01.csproj.CoreCompileInputs.cache
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.exe
+D:\程式\CS289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.pdb

@@ -77,5 +77,13 @@ namespace Example05
                 hasDotDigit = true;
             }
         }
+
+        private void plusButton_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void equalButton_Click(object sender, EventArgs e)
+        {
+        }
     }
 }

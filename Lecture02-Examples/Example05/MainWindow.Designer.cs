@@ -94,6 +94,7 @@
             this.plusButton.TabIndex = 4;
             this.plusButton.Text = "+";
             this.plusButton.UseVisualStyleBackColor = true;
+            this.plusButton.Click += new System.EventHandler(this.plusButton_Click);
             // 
             // minusButton
             // 
@@ -190,6 +191,7 @@
             this.equalButton.TabIndex = 15;
             this.equalButton.Text = "=";
             this.equalButton.UseVisualStyleBackColor = true;
+            this.equalButton.Click += new System.EventHandler(this.equalButton_Click);
             // 
             // number0Button
             // 
