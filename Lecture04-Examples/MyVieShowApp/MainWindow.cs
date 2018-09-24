@@ -21,7 +21,7 @@ namespace MyVieShowApp
 
         private void MainWindow_Load(object sender, EventArgs e)
         {
-            seats = new PictureBox[10];
+            seats = new PictureBox[5];
             int x_init = 12;
             int y_init = 12;
             for (int count = 0; count < seats.Length; count++)
