@@ -49,6 +49,7 @@
             this.findTextBox.Name = "findTextBox";
             this.findTextBox.Size = new System.Drawing.Size(171, 25);
             this.findTextBox.TabIndex = 0;
+            
             // 
             // button1
             // 

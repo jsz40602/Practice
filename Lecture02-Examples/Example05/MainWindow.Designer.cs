@@ -55,6 +55,7 @@
             this.resultTextBox.Name = "resultTextBox";
             this.resultTextBox.Size = new System.Drawing.Size(261, 43);
             this.resultTextBox.TabIndex = 0;
+            this.resultTextBox.TextChanged += new System.EventHandler(this.resultTextBox_TextChanged);
             // 
             // number7Button
             // 
@@ -104,6 +105,7 @@
             this.minusButton.TabIndex = 8;
             this.minusButton.Text = "-";
             this.minusButton.UseVisualStyleBackColor = true;
+            this.minusButton.Click += new System.EventHandler(this.minusButton_Click);
             // 
             // number6Button
             // 
@@ -141,8 +143,9 @@
             this.multipleButton.Name = "multipleButton";
             this.multipleButton.Size = new System.Drawing.Size(59, 56);
             this.multipleButton.TabIndex = 12;
-            this.multipleButton.Text = "x";
+            this.multipleButton.Text = "*";
             this.multipleButton.UseVisualStyleBackColor = true;
+            this.multipleButton.Click += new System.EventHandler(this.multipleButton_Click);
             // 
             // number3Button
             // 
@@ -182,6 +185,7 @@
             this.divideButton.TabIndex = 16;
             this.divideButton.Text = "/";
             this.divideButton.UseVisualStyleBackColor = true;
+            this.divideButton.Click += new System.EventHandler(this.divideButton_Click);
             // 
             // equalButton
             // 

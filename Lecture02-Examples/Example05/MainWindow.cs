@@ -14,6 +14,9 @@ namespace Example05
     {
         private bool hasDotDigit = false;
 
+        private String aa;
+        private String m;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -80,10 +83,61 @@ namespace Example05
 
         private void plusButton_Click(object sender, EventArgs e)
         {
+            m = plusButton.Text;
+            aa = resultTextBox.Text;
+            resultTextBox.Text = "";
         }
 
         private void equalButton_Click(object sender, EventArgs e)
         {
+            Double a = Double.Parse(aa);
+            Double b = Int32.Parse(resultTextBox.Text);
+            Double c = 0;
+
+            switch (m)
+            {
+                case "+":
+                    c = a + b;
+                    break;
+
+                case "-":
+                    c = a - b;
+                    break;
+
+                case "*":
+                    c = a * b;
+                    break;
+
+                case "/":
+                    c = a / b;
+                    break;
+            }
+            resultTextBox.Text = c.ToString();
+        }
+
+        private void resultTextBox_TextChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void minusButton_Click(object sender, EventArgs e)
+        {
+            m = minusButton.Text;
+            aa = resultTextBox.Text;
+            resultTextBox.Text = "";
+        }
+
+        private void multipleButton_Click(object sender, EventArgs e)
+        {
+            m = multipleButton.Text;
+            aa = resultTextBox.Text;
+            resultTextBox.Text = "";
+        }
+
+        private void divideButton_Click(object sender, EventArgs e)
+        {
+            m = divideButton.Text;
+            aa = resultTextBox.Text;
+            resultTextBox.Text = "";
         }
     }
 }
